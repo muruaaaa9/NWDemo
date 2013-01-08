@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="724F5631-9111-4705-9B0E-BD8B1E89FD22" ModuleId="NWDemo.Web" />
+  <Module PersistentId="41DE16C9-EB7A-449B-A41C-7216C1B78289" ModuleId="NWDemo.Model" />
+</Modules>
