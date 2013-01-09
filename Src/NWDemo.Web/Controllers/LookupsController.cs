@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using NWDemo.Data.Contracts;
@@ -14,12 +15,11 @@ namespace NWDemo.Web.Controllers
         {
             Uow = uow;
         }
-
         // GET: api/lookups/employees
-        [ActionName("employees")]
+        [ActionName("Employees")]
         public IEnumerable<Employee> GetEmployees()
         {
-            return Uow.Employees.GetEmployees().OrderBy(e => e.FirstName);
+            return Uow.Employees.GetAll().OrderBy(r => r.FirstName);
         }
     }
 }

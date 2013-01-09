@@ -17,7 +17,7 @@ namespace NWDemo.Data.Uow
         }
 
         //NWDemo Repositories
-        public IEmployeesRepository Employees { get { return GetRepo<IEmployeesRepository>(); } }
+        public IRepository<Employee> Employees { get { return GetStandardRepo<Employee>(); } }
        
         public void Commit()
         {

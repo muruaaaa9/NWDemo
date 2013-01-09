@@ -1,5 +1,6 @@
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
+using System.Data.Entity.ModelConfiguration.Conventions;
 using NWDemo.Model.Models.Mapping;
 
 namespace NWDemo.Model.Models
@@ -45,6 +46,8 @@ namespace NWDemo.Model.Models
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
+
             modelBuilder.Configurations.Add(new CategoryMap());
             modelBuilder.Configurations.Add(new CustomerDemographicMap());
             modelBuilder.Configurations.Add(new CustomerMap());

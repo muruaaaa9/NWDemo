@@ -12,7 +12,7 @@ namespace NWDemo.Data.Helpers
         {
             return new Dictionary<Type, Func<DbContext, object>>
                 {
-                   {typeof(IEmployeesRepository), dbContext => new EmployeesRepository(dbContext)},
+                  // {typeof(IEmployeesRepository), dbContext => new EmployeesRepository(dbContext)},
                 };
         }
 

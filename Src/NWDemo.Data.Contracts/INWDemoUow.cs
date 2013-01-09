@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using NWDemo.Model.Models;
 
 namespace NWDemo.Data.Contracts
 {
@@ -11,6 +12,6 @@ namespace NWDemo.Data.Contracts
         void Commit();
 
         // Repositories
-        IEmployeesRepository Employees { get; }
+        IRepository<Employee> Employees { get; }
     }
 }

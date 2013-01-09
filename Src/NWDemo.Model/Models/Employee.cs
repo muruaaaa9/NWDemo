@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace NWDemo.Model.Models
 {
+
     public class Employee
     {
         public Employee()

@@ -10,3 +10,15 @@ C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.pdb
 C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.xml
 C:\Dev\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.dll
 C:\Dev\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.pdb
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll.config
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.pdb
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.dll
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.dll
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.dll
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.pdb
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.pdb
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.xml
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.csprojResolveAssemblyReference.cache
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.dll
+D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.pdb
