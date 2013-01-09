@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWDemo.Model", "Src\NWDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWDemo.Data", "Src\NWDemo.Data\NWDemo.Data.csproj", "{6DAB990A-10DF-4B37-9162-9D524716DB21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWDemo.Data.Contracts", "Src\NWDemo.Data.Contracts\NWDemo.Data.Contracts.csproj", "{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{6DAB990A-10DF-4B37-9162-9D524716DB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAB990A-10DF-4B37-9162-9D524716DB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DAB990A-10DF-4B37-9162-9D524716DB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

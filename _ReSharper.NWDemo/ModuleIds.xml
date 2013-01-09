@@ -2,4 +2,5 @@
   <Module PersistentId="724F5631-9111-4705-9B0E-BD8B1E89FD22" ModuleId="NWDemo.Web" />
   <Module PersistentId="41DE16C9-EB7A-449B-A41C-7216C1B78289" ModuleId="NWDemo.Model" />
   <Module PersistentId="6DAB990A-10DF-4B37-9162-9D524716DB21" ModuleId="NWDemo.Data" />
+  <Module PersistentId="CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B" ModuleId="NWDemo.Data.Contracts" />
 </Modules>

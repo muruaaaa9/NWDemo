@@ -1,0 +1,12 @@
+C:\Dev\NWDemo\Src\NWDemo.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll.config
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.dll
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.dll
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.dll
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.xml
+C:\Dev\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.dll
+C:\Dev\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.pdb

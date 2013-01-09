@@ -31,8 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,10 +46,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\IRepositoryProvider.cs" />
+    <Compile Include="Helpers\PredicateBuilder.cs" />
+    <Compile Include="Helpers\RepositoryFactories.cs" />
+    <Compile Include="Helpers\RepositoryProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\EFRepository.cs" />
+    <Compile Include="Repositories\EmployeesRepository.cs" />
+    <Compile Include="Uow\NWDemoUow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Database Script\northwind.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NWDemo.Data.Contracts\NWDemo.Data.Contracts.csproj">
+      <Project>{CD77F49F-DA93-4CA6-99DE-B5DFF2FDC30B}</Project>
+      <Name>NWDemo.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NWDemo.Model\NWDemo.Model.csproj">
+      <Project>{41DE16C9-EB7A-449B-A41C-7216C1B78289}</Project>
+      <Name>NWDemo.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,5 +1,8 @@
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll.config
 C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll
 C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.dll
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
 C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\ResolveAssemblyReference.cache
 C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
 C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb

@@ -1,0 +1,9 @@
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.xml
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.pdb
