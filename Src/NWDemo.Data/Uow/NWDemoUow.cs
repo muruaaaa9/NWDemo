@@ -17,13 +17,16 @@ namespace NWDemo.Data.Uow
         }
 
         //NWDemo Repositories
-        public IRepository<Employee> Employees { get { return GetStandardRepo<Employee>(); } }
+        //public IRepository<Employee> Employees { get { return GetStandardRepo<Employee>(); } }
+
        
         public void Commit()
         {
             //System.Diagnostics.Debug.WriteLine("Committed");
             DbContext.SaveChanges();
         }
+
+        public IRepository<Category> Categories { get{ return GetStandardRepo<Category>(); }  }
 
         protected void CreateDbContext()
         {

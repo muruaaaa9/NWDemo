@@ -12,6 +12,7 @@ namespace NWDemo.Data.Contracts
         void Commit();
 
         // Repositories
-        IRepository<Employee> Employees { get; }
+        IRepository<Category> Categories { get; }
+
     }
 }

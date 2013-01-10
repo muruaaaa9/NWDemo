@@ -16,10 +16,10 @@ namespace NWDemo.Web.Controllers
             Uow = uow;
         }
         // GET: api/lookups/employees
-        [ActionName("Employees")]
-        public IEnumerable<Employee> GetEmployees()
+        [ActionName("Categories")]
+        public IEnumerable<Category> GetCategories()
         {
-            return Uow.Employees.GetAll().OrderBy(r => r.FirstName);
+            return Uow.Categories.GetAll().OrderBy(r => r.CategoryName);
         }
     }
 }
