@@ -16,9 +16,7 @@ namespace NWDemo.Data.Uow
             RepositoryProvider = repositoryProvider;       
         }
 
-        //NWDemo Repositories
-        //public IRepository<Employee> Employees { get { return GetStandardRepo<Employee>(); } }
-
+        
        
         public void Commit()
         {
@@ -26,7 +24,10 @@ namespace NWDemo.Data.Uow
             DbContext.SaveChanges();
         }
 
+        //NWDemo Repositories
         public IRepository<Category> Categories { get{ return GetStandardRepo<Category>(); }  }
+        public IRepository<Product> Products { get { return GetStandardRepo<Product>(); } }
+        public IRepository<Customer> Customers { get { return GetStandardRepo<Customer>(); } }
 
         protected void CreateDbContext()
         {

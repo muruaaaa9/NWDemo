@@ -15,11 +15,25 @@ namespace NWDemo.Web.Controllers
         {
             Uow = uow;
         }
-        // GET: api/lookups/employees
+        // GET: api/lookups/categories
         [ActionName("Categories")]
         public IEnumerable<Category> GetCategories()
         {
             return Uow.Categories.GetAll().OrderBy(r => r.CategoryName);
+        }
+
+        //GET : api/lookups/products
+        [ActionName("Products")]
+        public IEnumerable<Product> GetProducts()
+        {
+            return Uow.Products.GetAll().OrderBy(p => p.ProductName);
+        }
+
+        //GET: api/lookups/customers
+        [ActionName("Customers")]
+        public IEnumerable<Customer> GetCustomers()
+        {
+            return Uow.Customers.GetAll().OrderBy(c => c.CustomerID);
         }
     }
 }

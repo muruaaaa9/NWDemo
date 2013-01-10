@@ -11,8 +11,9 @@ namespace NWDemo.Data.Contracts
         // Save pending changes to the data store.
         void Commit();
 
-        // Repositories
+        // Lookup Repositories
         IRepository<Category> Categories { get; }
-
+        IRepository<Product> Products { get; }
+        IRepository<Customer> Customers { get;  }
     }
 }
