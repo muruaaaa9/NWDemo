@@ -1,7 +1,8 @@
 using System;
 using System.Linq.Expressions;
+using NWDemo.Data.Contracts;
 
-namespace CodeCamper.Data
+namespace NWDemo.Data.Helpers
 {
     public static class PredicateBuilder
     {
@@ -12,7 +13,7 @@ namespace CodeCamper.Data
         /// <param name="id">The int value of the id of the desired entity.</param>
         /// <returns>An predicate expression suitable for a LINQ "Where" or "First" clause.</returns>
         /// <remarks>
-        /// See <see cref="Model.IRepository{T}.GetById"/> for usage.
+        /// See <see cref="IRepository{T}.GetById"/> for usage.
         /// </remarks>
         /// <Example>
         /// If T is a Foo and Foo.Id is of type int, then
