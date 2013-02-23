@@ -13,3 +13,11 @@ D:\StudyProjects\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.dll
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb
+F:\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll.config
+F:\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll
+F:\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.pdb
+F:\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.dll
+F:\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
+F:\NWDemo\Src\NWDemo.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
+F:\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb

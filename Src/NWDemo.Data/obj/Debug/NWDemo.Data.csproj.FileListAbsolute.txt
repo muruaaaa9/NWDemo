@@ -22,3 +22,15 @@ D:\StudyProjects\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.xml
 D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.csprojResolveAssemblyReference.cache
 D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.dll
 D:\StudyProjects\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.pdb
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll.config
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.dll
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.pdb
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.dll
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.dll
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.dll
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Data.Contracts.pdb
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\NWDemo.Model.pdb
+F:\NWDemo\Src\NWDemo.Data\bin\Debug\EntityFramework.xml
+F:\NWDemo\Src\NWDemo.Data\obj\Debug\ResolveAssemblyReference.cache
+F:\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.dll
+F:\NWDemo\Src\NWDemo.Data\obj\Debug\NWDemo.Data.pdb
