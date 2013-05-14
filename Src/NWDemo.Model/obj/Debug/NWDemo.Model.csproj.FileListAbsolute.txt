@@ -1,11 +1,3 @@
-C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll.config
-C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll
-C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.pdb
-C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.dll
-C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
-C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\ResolveAssemblyReference.cache
-C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
-C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll.config
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll
 D:\StudyProjects\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.pdb
@@ -21,3 +13,11 @@ F:\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
 F:\NWDemo\Src\NWDemo.Model\obj\Debug\ResolveAssemblyReference.cache
 F:\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
 F:\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll.config
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.dll
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.dll
+C:\Dev\NWDemo\Src\NWDemo.Model\bin\Debug\EntityFramework.xml
+C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.dll
+C:\Dev\NWDemo\Src\NWDemo.Model\obj\Debug\NWDemo.Model.pdb

@@ -1,12 +1,3 @@
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.pdb
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.dll
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.dll
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.pdb
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.xml
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\ResolveAssemblyReference.cache
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.dll
-C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.pdb
 D:\StudyProjects\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll.config
 D:\StudyProjects\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll
 D:\StudyProjects\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.pdb
@@ -27,3 +18,13 @@ F:\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.xml
 F:\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\ResolveAssemblyReference.cache
 F:\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.dll
 F:\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll.config
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Data.Contracts.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\NWDemo.Model.pdb
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\bin\Debug\EntityFramework.xml
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.dll
+C:\Dev\NWDemo\Src\NWDemo.Data.Contracts\obj\Debug\NWDemo.Data.Contracts.pdb
